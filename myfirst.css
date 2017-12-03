@@ -91,6 +91,8 @@ i:hover {
 
 .bubble-container {
   position: absolute;
+  left: 20px;
+  top: 80%;
 }
 
 
