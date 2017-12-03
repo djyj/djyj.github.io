@@ -91,7 +91,7 @@ i:hover {
 
 .bubble-container {
   position: absolute;
-  left: 86%;
+  left: ;
   top: 50%;
 }
 
@@ -100,7 +100,7 @@ i:hover {
   width: 250px;
   height: 60px;
   padding: 0px;
-  background: #FFFFFF;
+  background: white;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
